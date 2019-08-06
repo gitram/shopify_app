@@ -16,8 +16,8 @@ cs:
   top_level_interaction_action: Pokračovat
   request_storage_access_heading: Aplikace %{app} potřebuje získat přístup k souborům
     cookie
-  request_storage_access_body: Tato aplikace ti umožní ověření prostřednictvím dočasného
-    uchování tvých osobních údajů. Pokud chcete používat tuto aplikaci, klikněte na
-    tlačítko Pokračovat a povolte soubory cookie.
+  request_storage_access_body: Tato aplikace vám umožní ověření prostřednictvím dočasného
+    uchování vašich osobních údajů. Pokud chcete používat tuto aplikaci, klikněte
+    na tlačítko Pokračovat a povolte soubory cookie.
   request_storage_access_footer: Platnost souborů cookie vyprší po 30 dnech.
   request_storage_access_action: Pokračovat
